@@ -22,4 +22,6 @@ We will use the data to analyse the squad we have and which areas are to be impo
 - Seaborn
 - Plotly
 
-  
+
+## Note
+###### As the plots were done completely with the Plotly package please paste the link to this GitHub notebook into http://nbviewer.jupyter.org/, which will present a rich view of the notebook.
